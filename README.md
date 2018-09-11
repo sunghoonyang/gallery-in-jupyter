@@ -1,5 +1,7 @@
 ![CUSP Logo](./asset/images/cusp_logo.png)
-## NYU CUSP Class of 2019
+
+## Sung Hoon Yang from NYU CUSP Class of 2019
+This repo serves as a gallery for my projects, HW, labs that I participated and/or authored.
 
 ### Fall 2018
 #### Applied Data Science
