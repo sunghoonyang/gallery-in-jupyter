@@ -8,5 +8,6 @@ This repo serves as a gallery for my projects, HW, labs that I participated and/
 ###### Note: Jupyter inline visualizations, outputs, etc. are only rendered on a Desktop.
 ### Fall 2018
 > #### Applied Data Science
+> * [Session 2: Linear Regression & OLS & LogScale](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/applied_data_science/session2/linear_regression.ipynb)
 > #### Principles of Urban Informatics
 > * [Week 1: Basic Visualization & Review of Manipulating Distributions](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/principles_of_urban_informatics/hw1/basic_viz.ipynb) 
