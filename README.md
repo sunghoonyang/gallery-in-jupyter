@@ -15,6 +15,7 @@ This repo serves as a gallery for my projects, HW, labs that I participated and/
 > * [Final Exam: Wrangling & Spatial Analysis & Multivariate Regression & Random Forest Regression](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/principles_of_urban_informatics/final/pui2018_final_sunghoonyang_shy256.ipynb)
 > * [Week 3: Central Limit  Theorem](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/principles_of_urban_informatics/hw4/Assignment1_shy256.ipynb) 
 > * [Week 2: Descriptive & Explanatory Analysis with Traffic Violation Data](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/principles_of_urban_informatics/hw3/HW3_shy256.ipynb) 
-> * [Week 1: Basic Visualization & Review of Manipulating Distributions](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/principles_of_urban_informatics/hw1/basic_viz.ipynb) 
- 
+> * [Week 1: Basic Visualization & Review of Manipulating Distributions](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/principles_of_urban_informatics/hw1/basic_viz.ipynb)
+> #### Urban Spatial Analytics 
+ > * [Project: Analysis of Uber Data: Spatial Statistics and Interpolation & Achieving Finer Granularity using Fishnet](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/fall18/usa/proj2/project2.pdf)
 
