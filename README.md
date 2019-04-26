@@ -8,7 +8,7 @@ This repo serves as a gallery for my projects, HW, labs that I participated and/
 ###### Note: If on a phone, please <strong>Request Desktop Site</strong> in your browser option.
 ### Spring 2019
 > #### Deep Learning 
-> * [Project: Predicting DEP Noise Complaints per Neighborhood](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/spring19/deep_learning/predicting_noise_complaints.ipynb)
+> * [Project: Mathematics of Phase Vocoder](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/spring19/deep_learning/predicting_noise_complaints.ipynb)
 > #### Mathematical Tools for Data Science
 > * [Project: Predicting DEP Noise Complaints per Neighborhood](https://github.com/sunghoonyang/gallery-in-jupyter/blob/master/spring19/math_tools_for_ds/Phase_Shifting.ipynb)
 ### Fall 2018
